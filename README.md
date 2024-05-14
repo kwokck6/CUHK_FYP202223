@@ -4,4 +4,4 @@
   - models/ - Contains saved models
   - plots/ - Contains plots of accuracy and loss
 
-The final report can be found here: [KTL2201_1155141911_final_report.pdf]
+The final report can be found [here](KTL2201_1155141911_final_report.pdf).
